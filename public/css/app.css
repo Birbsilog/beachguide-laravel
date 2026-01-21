@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    .hero-bg {
+        background-image: none !important;
+        background: linear-gradient(to bottom, #1c3d5a, #0a2342) !important;
+    }
+}
